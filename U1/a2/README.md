@@ -1,8 +1,8 @@
 ### Instalación de MySQL en Ubuntu
 
-* Configuración de l a maquina
+* Configuración de la maquina
 
-  Ponemos la Ip del Servidor fija:
+  Ponemos la IP del Servidor fija:
 
   ![image](img/img0.png)
 
@@ -14,7 +14,7 @@
 
   ![image](img/img1.png)
 
-  En mitad da la instalación nos pedira intraducir una contraseña para "**root**"
+  En mitad da la instalación nos pedira introducir una contraseña para "**root**"
 
   ![image](img/img2.png)
 
@@ -54,7 +54,7 @@
 
   ![image](img/img9.png)
 
-  Comprobamos en un navegador este funcionando correctamente el **phpmyadmin**
+  Comprobamos en un navegador si esta funcionando correctamente el **phpmyadmin**
 
   > localhost
 
@@ -86,6 +86,6 @@
 
   ![image](img/img21.png)
 
-  Y vamos al nevegador para comprobar si podemos acceder al phpmyadmin con la ip del nuestro servidor.
+  Y vamos al nevegador para comprobar que podemos acceder al phpmyadmin con la **IP del servidor**.
 
   ![image](img/img20.png)
