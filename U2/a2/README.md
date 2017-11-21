@@ -21,10 +21,9 @@ WHERE table_schema="sakila"
 
 
 * 2.¿Cuál es el comando SHOW equivalente al anterior?
-
-  ```
-  SHOW full table
-  ```
+```
+SHOW full table
+```
   | TABLES                 | Table_Type     |
   | :-------------         | :------------- |
   | columns                | SYSTEM VIEW    |
